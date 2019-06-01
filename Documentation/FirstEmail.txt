@@ -1,0 +1,16 @@
+Good morning Thrasher Webmaster,
+
+My name is Daniel Sierra, I am a Spanish guy (Im sorry for my level of writting English emails) and I write this email to talk about an app I have created as Software Developer with some data from your Thrasher website.
+
+First for all, I am 23 and I have been a Thrasher fan since I began to skateboard when I was 16. I am starting in Software development and in my free time I like spending some time creating my own apps just to improve myself and to apply my knowledge. 
+One day I had the idea of creating a Google Chrome Extension, just to learn to develop something in Python and Javascript.
+
+That day I checked if there was already a Thrasher Google Chrome Extension, and I didnt find anything, so I thought that I could create one. Two weeks later the app is already working correctly, I take data about uploaded Thrasher Videos through some Web scraping techniques. Attached is a pair of photos of how it looks. I am more interested in how to manage data than front-end topics, so it maybe looks a bit simple. I am developing this alone and I would like to share it, for example in github or uploading the app to Google Chrome Extension Market, but I have asked myself if this is legal or not. I dont want to have any legal problem, I only had the idea one day and I though it was cool to do something with Thrasher videos.
+
+So I write this email just to ask you if I can upload it to share it with others. If you are not interested in this, I will keep it in my laptop and I only will share it in my github. Or if you are interested in it maybe we can reach an agreement and I can improve the app to have more functionalities. I just wanted to share this with you and to know your opinion like a skateboarding brand.
+
+I thank you and await your reply. 
+
+Skate and enjoy! 
+
+Daniel Sierra
