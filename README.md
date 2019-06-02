@@ -8,11 +8,11 @@ Developed in Python and JavaScript.
 
 Developed with Django web framework and Beautiful Soup python library to scrape Thrasher Magazine website.
 
+![alt text](https://github.com/Dann00CS/ThrasherChromeExtension/blob/master/Documentation/Photos/Photo1.JPG)
+
 Time used: 1 week (more or less).
 
 Soon you will be able to download it from Google Chrome web market.
-
-![alt text](https://github.com/Dann00CS/ThrasherChromeExtension/blob/master/Documentation/Photos/Photo1.JPG)
 
 Future improvements.
 
