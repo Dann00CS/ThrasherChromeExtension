@@ -2,7 +2,7 @@
 Google Chrome Extension for Thrasher Magazine
 
 Personal development in a Chrome Extension based in Thrasher Magazine videos. 
-It shows the last videos and by clicking on them, it redirects to Thrasher website to watch it.
+It shows the last videos and by clicking on one, it redirects to Thrasher website to watch it.
 
 Developed in Python and JavaScript.
 
