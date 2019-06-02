@@ -6,7 +6,7 @@ It shows the last videos and by clicking on them, it redirects to Thrasher websi
 
 Developed in Python and JavaScript.
 
-Developed with web framework Django and with Beautiful Soup python library to scrape Thrasher Magazine website.
+Developed with Django web framework and Beautiful Soup python library to scrape Thrasher Magazine website.
 
 Time used: 1 week (more or less)
 
