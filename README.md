@@ -12,7 +12,7 @@ Time used: 1 week (more or less).
 
 Soon you will be able to download it from Google Chrome web market.
 
-![alt text](https://github.com/Dann00CS/ThrasherChromeExtension/tree/master/Documentation/Photos/Photo1.PNG)
+![alt text](https://github.com/Dann00CS/ThrasherChromeExtension/blob/master/Documentation/Photos/Photo1.JPG)
 
 Future improvements.
 
