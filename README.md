@@ -8,8 +8,10 @@ Developed in Python and JavaScript.
 
 Developed with Django web framework and Beautiful Soup python library to scrape Thrasher Magazine website.
 
-Time used: 1 week (more or less)
+Time used: 1 week (more or less).
 
 Soon you will be able to download it from Google Chrome web market.
+
+Future improvements.
 
 Enjoy skateboarding!
